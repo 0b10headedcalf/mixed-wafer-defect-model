@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-./MixedWM38.npz
-MixedWM38.npz
+./dataset.npz
+dataset.npz
