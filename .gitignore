@@ -11,3 +11,7 @@ wheels/
 
 ./dataset.npz
 dataset.npz
+
+STUDY_GUIDE.md
+./articles/
+articles/
